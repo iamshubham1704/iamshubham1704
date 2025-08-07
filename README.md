@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamshubham1704" alt="iamshubham1704" /></a> </p>
 
-- 🔭 I’m currently working on **MeetAI**
+- 🔭 I’m currently working on **Pyice and CampusMart**
 
 - 👨‍💻 All of my projects are available at [https://resume-sigma-five-93.vercel.app/](https://resume-sigma-five-93.vercel.app/)
 
