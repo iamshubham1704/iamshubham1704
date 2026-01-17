@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Solanki</h1>
-<h3 align="center">Founder and Developer</h3>
+<h3 align="center">Founding Crazzy Stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamshubham1704&label=Profile%20views&color=0e75b6&style=flat" alt="iamshubham1704" /> </p>
 
