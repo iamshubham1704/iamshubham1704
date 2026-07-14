@@ -7,7 +7,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=iamshubham1704&label=Visitors&color=0e75b6&style=flat)
 ![Location](https://img.shields.io/badge/Delhi%2C%20India-🇮🇳-lightgrey?style=flat)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success?style=flat)
-[![Portfolio](https://img.shields.io/badge/Portfolio-shubhamsolanki.in-blue?style=flat&logo=vercel)](https://shubhamsolanki.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shubhamsolanki.in-blue?style=flat&logo=vercel)](https://www.shubhamsolanki.in)
 
 </div>
 
@@ -90,7 +90,7 @@ I enjoy working at the intersection of **LLMs, AI Agents, automation, and scalab
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-black?style=for-the-badge)](https://shubhamsolanki.in)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-black?style=for-the-badge)](https://www.shubhamsolanki.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shubham-solanki-902331321)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/iamshubham1704)
 
