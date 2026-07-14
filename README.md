@@ -1,89 +1,107 @@
 <div align="center">
 
-# Hey, I'm Shubham Solanki
+# Hey, I'm Shubham Solanki 👋
 
-**Full-stack dev · Founding Crazzy Stuff · Shipping products, not excuses**
+**AI Engineer • Full-Stack Developer • Startup Builder**
 
-![Profile Views](https://komarev.com/ghpvc/?username=iamshubham1704&label=visitors&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=iamshubham1704&label=Visitors&color=0e75b6&style=flat)
 ![Location](https://img.shields.io/badge/Delhi%2C%20India-🇮🇳-lightgrey?style=flat)
-![Collabs](https://img.shields.io/badge/Open%20to%20Collabs-✅-success?style=flat)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success?style=flat)
 [![Portfolio](https://img.shields.io/badge/Portfolio-shubhamsolanki.in-blue?style=flat&logo=vercel)](https://shubhamsolanki.in)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 🚀 About Me
 
-I'm a **full-stack developer and builder** who turns ideas into real, usable products. I don't wait for perfect — I ship, iterate, and improve. Whether it's a sleek web app or a utility that makes life 10x easier, I'm obsessed with making things that people actually *want* to use.
+I'm an **AI Engineer and Full-Stack Developer** passionate about building intelligent products that solve real-world problems.
 
-Currently building under **Crazzy Stuff** — a personal brand focused on freemium web tools and community platforms targeting Indian users.
+I enjoy working at the intersection of **LLMs, AI Agents, automation, and scalable web applications**. From shipping MVPs to building production-ready systems, I love turning ambitious ideas into products people use.
 
-- 🎯 **Philosophy:** Fast, free, and unapologetically bold.
-- 🛠️ **I like:** Neo-brutalist design, clean APIs, and products that don't waste your time.
-- 📍 **Based in** Delhi, India. Building for India and the world.
-- 🚀 **Currently:** Student by day, founder by night.
-
----
-
-## 🔭 Currently Building
-
-| 🎒 [TollyPips](https://github.com/iamshubham1704/tollypips) | 🎓 CollegePaglu |
-|---|---|
-| Your all-in-one backpack of tools. Fast, free, and unapologetically bold. A growing collection of utilities built for students & devs — no login, no friction, just tools. | Student community app for Indian college life — notes, memes, connections, and campus chaos all in one place. |
-| `Next.js` `Tailwind v4` `Framer Motion` `Active 🟢` | `React Native` `Ad Mob` `Active 🟢` |
+- 🤖 Building AI-native applications and autonomous agent workflows.
+- 🚀 Startup enthusiast with experience building products from zero to launch.
+- 💻 Strong focus on backend architecture, APIs, and modern web technologies.
+- 🌍 Open Source Contributor.
+- 🎓 B.Tech Student at MAIT, Delhi.
 
 ---
 
-## 🛠️ Tech Stack
 
-**Frontend**
+## 🛠 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
+
+### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css)
 
-**Backend & DB**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
 
-**Tools & Infra**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+### AI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-blue?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-LLMs-success?style=flat)
+![RAG](https://img.shields.io/badge/RAG-Applications-orange?style=flat)
+
+### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+
+---
+
+## 🏆 Highlights
+
+- 🥇 *2x* Hackathon Winner
+- 👨‍🏫 Former **ATAL Lab Mentor**
+- 🚀 Founding Engineer experience in startups
+- 🤖 Building AI-powered products and autonomous systems
+- 🌍 Active Open Source Contributor
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamshubham1704&show_icons=true&hide_border=true&rank_icon=github" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamshubham1704&layout=compact&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamshubham1704&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamshubham1704&layout=compact&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamshubham1704&hide_border=true" />
-</div>
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_shubhamsolanki.in-blue?style=for-the-badge)](https://shubhamsolanki.in)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/shubham-solanki-902331321)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamshubham1704&hide_border=true"/>
 </div>
 
 ---
 
+## 🤝 Let's Connect
+
 <div align="center">
-  <i>⭐ If you like what I build, drop a star on a repo!</i>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-black?style=for-the-badge)](https://shubhamsolanki.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shubham-solanki-902331321)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/iamshubham1704)
+
+</div>
+
+---
+
+<div align="center">
+
+> **"Build fast. Learn faster. Keep shipping."**
+
+⭐ If something I built helped you, consider starring the repository.
+
 </div>
